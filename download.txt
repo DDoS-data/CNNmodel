@@ -1,0 +1,27 @@
+4083.3s 1 warn(
+4083.3s 2 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+4083.3s 3 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+4097.7s 4 [NbConvertApp] Writing 783113 bytes to __notebook__.ipynb
+4099.2s 5 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+4099.2s 6 warn(
+4099.3s 7 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+4099.3s 8 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+4100.6s 9 [NbConvertApp] Support files will be in __results___files/
+4100.6s 10 [NbConvertApp] Making directory __results___files
+4100.6s 11 [NbConvertApp] Making directory __results___files
+4100.6s 12 [NbConvertApp] Making directory __results___files
+4100.6s 13 [NbConvertApp] Making directory __results___files
+4100.6s 14 [NbConvertApp] Making directory __results___files
+4100.6s 15 [NbConvertApp] Making directory __results___files
+4100.6s 16 [NbConvertApp] Making directory __results___files
+4100.6s 17 [NbConvertApp] Making directory __results___files
+4100.6s 18 [NbConvertApp] Making directory __results___files
+4100.6s 19 [NbConvertApp] Making directory __results___files
+4100.6s 20 [NbConvertApp] Making directory __results___files
+4100.6s 21 [NbConvertApp] Making directory __results___files
+4100.6s 22 [NbConvertApp] Making directory __results___files
+4100.6s 23 [NbConvertApp] Making directory __results___files
+4100.6s 24 [NbConvertApp] Making directory __results___files
+4100.6s 25 [NbConvertApp] Making directory __results___files
+4100.6s 26 [NbConvertApp] Making directory __results___files
+4100.6s 27 [NbConvertApp] Writing 516800 bytes to __results__.html
